@@ -1,0 +1,13 @@
+node_modules
+dist
+*.local
+*.xlsx
+*.xls
+*.csv
+Import/
+Heroes ref/
+work/
+sounds/
+.claude/
+.env
+tools/make-art-requests.py

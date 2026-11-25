@@ -1,0 +1,1 @@
+const o={mapping:{slot_1:"hero_jade",slot_2:"hero_storm",slot_3:"hero_sun",slot_4:"hero_foundry",slot_5:"hero_steel",slot_6:"hero_raven"}};export{o as r};
