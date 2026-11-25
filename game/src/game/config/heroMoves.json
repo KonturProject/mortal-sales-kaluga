@@ -1,0 +1,244 @@
+{
+    "heroes": {
+        "hero_jade": {
+            "moves": {
+                "walk": [
+                    "hero_jade_walk"
+                ],
+                "attack": [
+                    "hero_jade_punch"
+                ],
+                "kick": [
+                    "hero_jade_kick"
+                ],
+                "uppercut": [
+                    "hero_jade_uppercut"
+                ],
+                "sweep": [
+                    "hero_jade_sweep"
+                ],
+                "flip": [
+                    "hero_jade_flip"
+                ],
+                "heavy": [
+                    "hero_jade_special"
+                ],
+                "hurt": [
+                    "hero_jade_hurt"
+                ],
+                "fly": [
+                    "hero_jade_fly"
+                ],
+                "knockdown": [
+                    "hero_jade_ko"
+                ],
+                "ko": [
+                    "hero_jade_ko"
+                ],
+                "win": [
+                    "hero_jade_win"
+                ]
+            }
+        },
+        "hero_storm": {
+            "moves": {
+                "walk": [
+                    "hero_storm_walk"
+                ],
+                "attack": [
+                    "hero_storm_punch"
+                ],
+                "kick": [
+                    "hero_storm_kick"
+                ],
+                "uppercut": [
+                    "hero_storm_uppercut"
+                ],
+                "sweep": [
+                    "hero_storm_sweep"
+                ],
+                "flip": [
+                    "hero_storm_flip"
+                ],
+                "heavy": [
+                    "hero_storm_special"
+                ],
+                "hurt": [
+                    "hero_storm_hurt"
+                ],
+                "fly": [
+                    "hero_storm_fly"
+                ],
+                "knockdown": [
+                    "hero_storm_ko"
+                ],
+                "ko": [
+                    "hero_storm_ko"
+                ],
+                "win": [
+                    "hero_storm_win"
+                ]
+            }
+        },
+        "hero_sun": {
+            "moves": {
+                "walk": [
+                    "hero_sun_walk"
+                ],
+                "attack": [
+                    "hero_sun_punch"
+                ],
+                "kick": [
+                    "hero_sun_kick"
+                ],
+                "uppercut": [
+                    "hero_sun_uppercut"
+                ],
+                "sweep": [
+                    "hero_sun_sweep"
+                ],
+                "flip": [
+                    "hero_sun_flip"
+                ],
+                "heavy": [
+                    "hero_sun_special"
+                ],
+                "hurt": [
+                    "hero_sun_hurt"
+                ],
+                "fly": [
+                    "hero_sun_fly"
+                ],
+                "knockdown": [
+                    "hero_sun_ko"
+                ],
+                "ko": [
+                    "hero_sun_ko"
+                ],
+                "win": [
+                    "hero_sun_win"
+                ]
+            }
+        },
+        "hero_foundry": {
+            "moves": {
+                "walk": [
+                    "hero_foundry_walk"
+                ],
+                "attack": [
+                    "hero_foundry_punch"
+                ],
+                "kick": [
+                    "hero_foundry_kick"
+                ],
+                "uppercut": [
+                    "hero_foundry_uppercut"
+                ],
+                "sweep": [
+                    "hero_foundry_sweep"
+                ],
+                "flip": [
+                    "hero_foundry_flip"
+                ],
+                "heavy": [
+                    "hero_foundry_special"
+                ],
+                "hurt": [
+                    "hero_foundry_hurt"
+                ],
+                "fly": [
+                    "hero_foundry_fly"
+                ],
+                "knockdown": [
+                    "hero_foundry_ko"
+                ],
+                "ko": [
+                    "hero_foundry_ko"
+                ],
+                "win": [
+                    "hero_foundry_win"
+                ]
+            }
+        },
+        "hero_steel": {
+            "moves": {
+                "walk": [
+                    "hero_steel_walk"
+                ],
+                "attack": [
+                    "hero_steel_punch"
+                ],
+                "kick": [
+                    "hero_steel_kick"
+                ],
+                "uppercut": [
+                    "hero_steel_uppercut"
+                ],
+                "sweep": [
+                    "hero_steel_sweep"
+                ],
+                "flip": [
+                    "hero_steel_flip"
+                ],
+                "heavy": [
+                    "hero_steel_special"
+                ],
+                "hurt": [
+                    "hero_steel_hurt"
+                ],
+                "fly": [
+                    "hero_steel_fly"
+                ],
+                "knockdown": [
+                    "hero_steel_ko"
+                ],
+                "ko": [
+                    "hero_steel_ko"
+                ],
+                "win": [
+                    "hero_steel_win"
+                ]
+            }
+        },
+        "hero_raven": {
+            "moves": {
+                "walk": [
+                    "hero_raven_walk"
+                ],
+                "attack": [
+                    "hero_raven_punch"
+                ],
+                "kick": [
+                    "hero_raven_kick"
+                ],
+                "uppercut": [
+                    "hero_raven_uppercut"
+                ],
+                "sweep": [
+                    "hero_raven_sweep"
+                ],
+                "flip": [
+                    "hero_raven_flip"
+                ],
+                "heavy": [
+                    "hero_raven_special"
+                ],
+                "hurt": [
+                    "hero_raven_hurt"
+                ],
+                "fly": [
+                    "hero_raven_fly"
+                ],
+                "knockdown": [
+                    "hero_raven_ko"
+                ],
+                "ko": [
+                    "hero_raven_ko"
+                ],
+                "win": [
+                    "hero_raven_win"
+                ]
+            }
+        }
+    }
+}

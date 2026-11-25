@@ -1,0 +1,46 @@
+{
+    "heroes": [
+        {
+            "slug": "hero_jade",
+            "sprite": "hero_jade",
+            "name": "",
+            "color": "#2f9e5b",
+            "hits": 0
+        },
+        {
+            "slug": "hero_storm",
+            "sprite": "hero_storm",
+            "name": "",
+            "color": "#5b6fd6",
+            "hits": 0
+        },
+        {
+            "slug": "hero_sun",
+            "sprite": "hero_sun",
+            "name": "",
+            "color": "#e0a11f",
+            "hits": 0
+        },
+        {
+            "slug": "hero_foundry",
+            "sprite": "hero_foundry",
+            "name": "",
+            "color": "#b5652b",
+            "hits": 0
+        },
+        {
+            "slug": "hero_steel",
+            "sprite": "hero_steel",
+            "name": "",
+            "color": "#e0652b",
+            "hits": 0
+        },
+        {
+            "slug": "hero_raven",
+            "sprite": "hero_raven",
+            "name": "",
+            "color": "#b3263a",
+            "hits": 0
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+  "name": "mortal-sales-kaluga",
+  "description": "Office-display sales game: group leaders fight in pairs, one payment is one blow (Phaser 4 + Vite + TypeScript).",
+  "version": "2.0.0-dev",
+  "private": true,
+  "author": "Phaser Studio <support@phaser.io> (https://phaser.io/)",
+  "license": "MIT",
+  "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
+  "scripts": {
+    "dev": "vite --config vite/config.dev.mjs",
+    "build": "vite build --config vite/config.prod.mjs",
+    "dev-nolog": "vite --config vite/config.dev.mjs",
+    "build-nolog": "vite build --config vite/config.prod.mjs",
+    "deploy": "node tools/deploy-guard.mjs && npm run build-nolog && gh-pages -d dist",
+    "mock-backend": "node tools/mock-backend.mjs",
+    "serve-dist": "node tools/serve-dist.mjs",
+    "test:backend": "node --test ../apps-script/test/backend.test.mjs",
+    "test:fight": "node --test tests/battle-rules.test.mjs"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "typescript": "~5.7.2",
+    "vite": "^6.3.1"
+  },
+  "dependencies": {
+    "phaser": "4.0.0",
+    "terser": "^5.39.0",
+    "xlsx": "https://cdn.sheetjs.com/xlsx-0.20.3/xlsx-0.20.3.tgz"
+  }
+}
